@@ -10,14 +10,6 @@ npm ci
 
 then run ```npm start``` command.
 
-
-PROJECT URL:
-
-```
-https://github.com/MohitAswani/StudentHubServer
-https://github.com/MohitAswani/StudentHubClient
-```
-
 Deployed Project URl:
 ```
 https://student-hub-wbd.netlify.app/login
