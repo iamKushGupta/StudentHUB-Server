@@ -1,5 +1,4 @@
 # StudentHUB
-[![Test and Deploy](https://github.com/iamKushGupta/StudentHub-Server/actions/workflows/test_and_deploy.yml/badge.svg)](https://github.com/iamKushGupta/StudentHub-Server/actions/workflows/test_and_deploy.yml)
 
 Live Demo : https://student-hub-server-wbd-69453.onrender.com
 
